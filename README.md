@@ -2,12 +2,6 @@
 
 I'm a software engineer.
 
-# Status 📈
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yb173&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yb173&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <!--
 **yb173/yb173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
